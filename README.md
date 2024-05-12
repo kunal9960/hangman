@@ -2,7 +2,7 @@
 
 This Python script implements a simple Hangman game where players guess letters to uncover a hidden word
 
-<img src="https://github.com/kunal9960/hangman/blob/master/Hangman.png" alt="Hangman" width="400">
+<img src="https://github.com/kunal9960/hangman/blob/master/Hangman_with_hints.png" alt="Hangman" width="500">
 
 
 ## Requirements
