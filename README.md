@@ -1,17 +1,21 @@
 # Hangman Game 🎮
 
-This Python script implements a simple Hangman game where players guess letters to uncover a hidden word
+[![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/kunal9960)
+
+This Python script implements a simple hangman game where the player guess letters to uncover the hidden word.
 
 <img src="https://github.com/kunal9960/hangman/blob/master/Hangman_with_hints.png" alt="Hangman" width="440">
 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - Tkinter
 
 
 ## Features
+
 - Randomly selects words from a predefined list.
 - Tracks guessed letters and remaining attempts.
 - Displays the hangman figure as incorrect guesses accumulate.
